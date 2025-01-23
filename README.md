@@ -27,6 +27,6 @@ I'm a web developer passionate about health tourism. I love to create and contri
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mgokay/)
-- [Twitter](https://twitter.com/mstfgky)
+- [Twitter](https://twitter.com/mmgokay)
 
 Feel free to explore my repositories and let's connect! 😊
